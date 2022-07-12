@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Flutter, ML/AI**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/Roshan818)
+- 👨‍💻 All of my projects are available at [here](https://roshan818.github.io)
 
 - 📫 How to reach me **roshankumar9431759946@gmail.com**
 
