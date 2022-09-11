@@ -15,7 +15,7 @@
 🎓 &nbsp;I'm currently a Pre-Final year student pursuing B.Tech in Civil Engineering at Indian Institute of Technology, Guwahati.\
 💡 &nbsp;Some technologies I enjoy working with include Pytorch, TensorFlow, NodeJs and ExpressJS. Currently exploring ML,AI and DL.\
 🌱 &nbsp;I'm on track for learning more about Computer Vision, NLP and Robotic Motion Planning.\
-🔭 &nbsp;I’m currently working on Violence Detection in Videos.\
+🔭 &nbsp;I’m currently working on Model Extraction and NLP.\
 ✉️ &nbsp;You can shoot me an email at kroshann81@gmail.com! I'll try to respond as soon as I can.
 <br>
 
