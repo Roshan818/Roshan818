@@ -1,4 +1,4 @@
-# Hi 👋, I'm Roshan aka Aldrimore
+# Hi 👋, I'm Roshan
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Roshan_kumar81?label=Follow)](https://twitter.com/intent/follow?screen_name=Roshan_kumar81)
 [![Linkedin: Roshan](https://img.shields.io/badge/-Roshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roshan-kumar-01/)](https://www.linkedin.com/in/roshan-kumar-01/)
